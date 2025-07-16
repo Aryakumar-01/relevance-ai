@@ -72,7 +72,7 @@ else:
   - <img width="1102" height="240" alt="image" src="https://github.com/user-attachments/assets/019d9958-d67c-4900-8f87-65e34a795af4" />
    for safer side also remind ageent tin main prompt.
 ### Integrating to 3rd party service(eg hubspot,linkedin,etc...)
-- normally on such problem statement we counter problems with API request.
+- normally on such problem statements we counter problems with API request.
 - go to that party's api services for our expectation with that service,
 - obtain credential if required
 - add python IDE,& copy-paste python code for respective(get,post,etc..)api request,
